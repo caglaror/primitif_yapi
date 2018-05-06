@@ -1,0 +1,13 @@
+{
+    "name": "cagla/primitif_yapi",
+    "description": "A very primitif php structure",
+    "authors": [
+        {
+            "name": "caglaror",
+            "email": "caglaror@gmail.com"
+        }
+    ],
+    "require": {
+        "twbs/bootstrap": "^4.1"
+    }
+}
